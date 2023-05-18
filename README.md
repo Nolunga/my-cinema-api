@@ -1,6 +1,6 @@
 # Get started
 
-### to install dependancies
+### to install dependencies
 
 `yarn `
 
